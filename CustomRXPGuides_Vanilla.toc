@@ -1,6 +1,6 @@
-## Interface: 50504
-## Title: RestedXP Guides
-## Title-zhCN: RestedXP 指南
+## Interface: 11509
+## Title: Custom RestedXP Guides
+## Title-zhCN: Custom RestedXP 指南
 ## Notes: In-game leveling guides
 ## Author: RestedXP
 ## Version: v4.11.12

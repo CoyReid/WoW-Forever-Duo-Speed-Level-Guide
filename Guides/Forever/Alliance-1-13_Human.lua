@@ -29,7 +29,7 @@ step
     #softcore << Warlock
     #optional
     #completewith Within
-    .destroy 6948 >> Delete the |T134414:0|t[Hearthstone] from your bags, as it's no longer needed
+    .destroy 6948 >> Hello Chuster. Delete the |T134414:0|t[Hearthstone] from your bags, as it's no longer needed
 step
     .goto 1429/0,-136.48,-8933.47
     >>|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Deputy Willem|r
