@@ -1,0 +1,19 @@
+{
+  "name": "rxp-guide-syntax",
+  "displayName": "RXP Guide Syntax",
+  "description": "Highlights RestedXP guide text inside RXPGuides.RegisterGuide([[ ... ]]) strings in Lua files.",
+  "version": "0.0.1",
+  "publisher": "local",
+  "license": "MIT",
+  "engines": { "vscode": "^1.60.0" },
+  "categories": ["Programming Languages"],
+  "contributes": {
+    "grammars": [
+      {
+        "scopeName": "rxp.guide.injection",
+        "path": "./syntaxes/rxp-guide.injection.tmLanguage.json",
+        "injectTo": ["source.lua"]
+      }
+    ]
+  }
+}
