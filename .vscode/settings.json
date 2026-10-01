@@ -1,5 +1,17 @@
 {
-    "Lua.diagnostics.globals": [
-        "RXPGuides"
-    ]
+  "Lua.runtime.version": "Lua 5.1",
+  "Lua.diagnostics.globals": [
+    "SLASH_MYADDON1",
+    "CreateFrame",
+    "DEFAULT_CHAT_FRAME",
+    "UIParent",
+    "C_Timer",
+    "GameTooltip",
+    "HookScript",
+    "RXPGuides",
+    "RXPFrame"
+  ],
+  "Lua.diagnostics.disable": [
+    "undefined-global"
+  ]
 }
