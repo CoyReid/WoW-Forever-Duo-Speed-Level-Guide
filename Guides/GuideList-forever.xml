@@ -1,6 +1,22 @@
 <Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..FrameXMLUI.xsd">
     <Script file="Guides/Import.lua"/>
-    <Script file="Guides/Forever/Alliance-Lock-Pally-Duo.lua"/>
+    <!-- Lock-Pally duo guide (Chuster + Voi): one guide per route section, chained with #next -->
+    <Script file="Guides/Forever/Duo/01-StartingZone.lua"/>
+    <Script file="Guides/Forever/Duo/02-ElwynnForest.lua"/>
+    <Script file="Guides/Forever/Duo/03-DunMorogh-LochModan.lua"/>
+    <Script file="Guides/Forever/Duo/04-HallOfThanes.lua"/>
+    <Script file="Guides/Forever/Duo/05-Darkshore.lua"/>
+    <Script file="Guides/Forever/Duo/06-RuinsOfLordaeron.lua"/>
+    <Script file="Guides/Forever/Duo/07-Westfall-Redridge-LochModan.lua"/>
+    <Script file="Guides/Forever/Duo/08-Deadmines.lua"/>
+    <Script file="Guides/Forever/Duo/09-PaladinClassWeapon.lua"/>
+    <Script file="Guides/Forever/Duo/10-Duskwood.lua"/>
+    <Script file="Guides/Forever/Duo/11-BlackfathomDeeps.lua"/>
+    <Script file="Guides/Forever/Duo/12-Wetlands.lua"/>
+    <Script file="Guides/Forever/Duo/13-TheStockades.lua"/>
+    <Script file="Guides/Forever/Duo/14-ExcavationSite-Wetlands.lua"/>
+    <Script file="Guides/Forever/Duo/15-CityOfDalaran.lua"/>
+    <Script file="Guides/Forever/Duo/16-Gnomeregan.lua"/>
 	<Script file="Guides/forever/RestedXP-Skyborne.lua"/>
     <Script file="Guides/forever/Alliance-1-10_NightElf.lua"/>
     <Script file="Guides/forever/Alliance-1-13_Human.lua"/>
