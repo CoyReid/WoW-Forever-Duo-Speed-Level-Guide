@@ -1,0 +1,107 @@
+# RestedXP Guides
+
+## [v4.11.12](https://github.com/RestedXP/RXPGuides/tree/v4.11.12) (2026-09-30)
+[Full Changelog](https://github.com/RestedXP/RXPGuides/compare/v4.11.11...v4.11.12) [Previous Releases](https://github.com/RestedXP/RXPGuides/releases)
+
+- Barrens update Forever  
+- Minor 11-20 adjustments Forever  
+- 11-20 cleanup Forever  
+- Add #AH step for Harvesting the Harvesters in Forever  
+- Merge branch 'main' of https://github.com/RestedXP/RXPGuides  
+- Forever Teldrassil Changes  
+- Night Elf Darkshore Update  
+- Mulgore Forever complete  
+- Add RoL turnins for Dungeon Guide Forever  
+- Dungeon Guides WIP Forever  
+- Minor Redridge adjustments Forever  
+- Coldridge updates Forever  
+- Fixed quest automation issues  
+- Improved Weakauras support  
+- Fixed merchant related issues  
+- Skyborne: Add Horde Druid Quest  
+- refine Skyborne leveling route  
+    - add class training, weapon purchase, and cooking steps  
+    - standardize deathskip macros and Spirit Healer handling  
+    - correct NPC names, icons, objectives, text, and waypoints  
+- added maxlevelskip Tirisfal / Undercity coord fix  
+- Barrens update Forever  
+- Add NightElf tag for Westfall section  
+- Dwarf Priest Desperate Prayer update Forever  
+- Remove Jar of Snow timer warning  
+- Skyborne: Horde Last Polish (for now)  
+- Skyborne: Horde Hunter + Rogue Fixes  
+- Human Rogue weapon progression updates  
+- Gnome/Dwarf fixes  
+- Druid darkshore fixes  
+- Default guide selection update  
+- Improve Skyborne routing  
+    - correct vendor-step gating and NPC target IDs  
+    - fix item icons and color markup  
+    - clean up obsolete labels and development comments  
+    - add Engineering quest turn-in handling  
+- Improve Skyborne guide routing and trainer steps  
+    - add level 10 Hunter pet training steps  
+    - correct Enchanting trainer names and NPC IDs  
+    - remove redundant Alliance quest steps and stale dependencies  
+    - fix quest labels, class conditions, and NPC targets  
+    - improve navigation instructions and correct typos  
+- refine Skyborne Hunter quests alliance routing  
+    - integrate Hunter taming quests into the main leveling route(alliance)  
+    - add faction-specific Hunter routing, training, ammo, and pet-taming steps(alliance)  
+    - improve Read Ley Line  
+    - restore the Herbalism turn-in and add route warnings  
+    - remove redundant standalone Hunter and Druid class-quest s  
+- Dungeon Guide (WIP)  
+- Support guide progress reset (#394)  
+    - Add ResetGuideProgress button to Profiles always  
+    - Add ResetGuideProgress button to main settings if level 1  
+    - Check for `guideProgress.playerGUID` mismatch on login  
+- Update HBD  
+    Manually edit to nolibs equivalent  
+- Protect modern APIs from legacy showTargetingOnProximity hooks  
+- Fixed deathskip related issues  
+- refine Skyborne questing and training steps  
+    - add Hunter Raptor Strike training and trainer gossip skips  
+    - improve deathskip instructions and routing conditions  
+    - adjust quest turn-ins, vendor steps, timers, and money checks  
+    - disable unavailable Herbalism turn-in steps  
+- typo fix  
+- Mulgore Forever update  
+- Minor Darkshore/Loch Modan adjustments Forever  
+- Night Elf druid route changes  
+- Fixed Baganator integration  
+- Fixed pet training issue  
+- Fixed auto gossip issue (NE)  
+- refine Skyborne class routing and training  
+    - add Hunter, Druid, and Rogue training steps  
+    - improve faction and class-specific quest routing  
+    - add Alliance hearthstone and Mage profession guidance  
+    - expand navigation loops and correct waypoint details  
+- Merge branch 'main' of https://github.com/RestedXP/RXPGuides  
+- Forever Westfall for Night Elves integration (WIP)  
+- Forever Loch Modan typo fix  
+- Teldrassil Forever Updates  
+- Northshire/Coldridge minor updates  
+- Fixed Guide loading issue bug  
+- Minor Update Vendor  
+- Skyborne: Horde Warrior Fixes  
+- Zephras Isle name revert  
+- Update Alliance guide  
+    - Use Daeann as the Valanaar repair vendor  
+    - Add level 12 training steps for all Alliance classes  
+    - added #next  
+- Fix junk item marking with ElvUI (#393)  
+- Merge branch 'main' of https://github.com/RestedXP/RXPGuides  
+- Teldrassil Updates Forever  
+- Minor darkshore updates Forever  
+- Minor Darkshore adjustment Forever  
+- Dwarf Priest Desperate Prayer update  
+- Add Auction House steps for early caster levels Forever  
+- Update Vagash step  
+- optimize Skyborne Alliance and Druid routing  
+- Skyborne: Fix some horde related steps  
+- refine Skyborne Alliance leveling route  
+    - reorganize quest flow and preserve discovery-only routes  
+    - improve combat objectives, waypoints, and navigation  
+    - add Druid and Warrior class-specific steps  
+    - update vendor and resource collection instructions  
